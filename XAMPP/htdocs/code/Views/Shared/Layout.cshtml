@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>@ViewData["Title"] - IBPE</title>
+  <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+  <header>
+    <img src="~/images/logo-ibpe.png" alt="Logo IBPE" />
+    <nav>
+      <ul>
+        <li><a asp-controller="Home" asp-action="Index">Accueil</a></li>
+        <li><a asp-controller="Home" asp-action="Diplomas">Diplômes</a></li>
+        <li><a asp-controller="Home" asp-action="Methodology">Méthodologie</a></li>
+        <li><a asp-controller="Candidate" asp-action="Apply">Candidater</a></li>
+        <li><a asp-controller="Certificate" asp-action="Verify">Vérifier</a></li>
+        <li><a asp-controller="Home" asp-action="Partners">Partenaires</a></li>
+        <li><a asp-controller="Home" asp-action="About">À propos</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    @RenderBody()
+  </main>
+  <footer>
+    <p>&copy; 2025 IBPE. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>

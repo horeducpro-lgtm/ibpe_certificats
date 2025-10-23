@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>IBPE - Institut de Reconnaissance Professionnelle</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <!-- En-tête -->
+  <header>
+    <img src="assets/logo-ibpe.png" alt="Logo IBPE" class="logo">
+    <nav>
+      <ul>
+        <li><a href="#accueil">Accueil</a></li>
+        <li><a href="#programmes">Programmes</a></li>
+        <li><a href="#verifier">Vérification</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Section Accueil -->
+  <section id="accueil">
+    <h1>Bienvenue à IBPE</h1>
+    <p>Institution dédiée à la reconnaissance professionnelle et à la légitimité internationale.</p>
+    <img src="assets/seaux.png" alt="Sceaux de validation">
+  </section>
+
+  <!-- Section Programmes -->
+  <section id="programmes">
+    <h2>Nos Programmes</h2>
+    <div class="programme">
+      <h3>Master Professionnel en Management Industriel</h3>
+      <p>Validé par le Conseil IBPEAF. Reconnu à l’échelle internationale.</p>
+    </div>
+    <!-- Tu peux dupliquer ce bloc pour chaque programme -->
+  </section>
+
+  <!-- Section Vérification -->
+  <section id="verifier">
+    <h2>Vérifier un certificat</h2>
+    <form action="verifier.php" method="get">
+      <label for="code">Numéro du certificat :</label>
+      <input type="text" id="code" name="code" required>
+      <button type="submit">Vérifier</button>
+    </form>
+  </section>
+
+  <!-- Section Contact -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <form action="contact.php" method="post">
+      <input type="text" name="nom" placeholder="Votre nom" required>
+      <input type="email" name="email" placeholder="Votre email" required>
+      <textarea name="message" placeholder="Votre message" required></textarea>
+      <button type="submit">Envoyer</button>
+    </form>
+  </section>
+
+  <!-- Pied de page -->
+  <footer>
+    <p>&copy; 2025 IBPE - Tous droits réservés</p>
+  </footer>
+
+</body>
+</html>

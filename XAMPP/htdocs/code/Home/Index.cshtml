@@ -1,0 +1,29 @@
+@model IEnumerable<Certificate>
+
+<h2>Certificats délivrés</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Nom</th>
+      <th>Programme</th>
+      <th>Numéro</th>
+      <th>Date</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var cert in Model)
+    {
+      <tr>
+        <td>@cert.CandidateName</td>
+        <td>@cert.Program</td>
+        <td>@cert.UniqueNumber</td>
+        <td>@cert.IssuedOn.ToShortDateString()</td>
+        <td>
+          <a asp-action="Download" asp-route-id="@cert.Id">📄 PDF</a> |
+          <a asp-action="QRCode" asp-route-id="@cert.Id">🔳 QR</a>
+        </td>
+      </tr>
+    }
+  </tbody>
+</table>

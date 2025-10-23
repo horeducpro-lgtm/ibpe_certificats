@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Vérifier un diplôme – IBPE</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+
+  <!-- Barre de navigation -->
+  <div data-include="includes/header.html"></div>
+
+  <!-- Vérification de diplôme -->
+  <section class="form-section">
+    <h2>Vérification de diplôme</h2>
+    <form id="verifyForm">
+      <label for="certNumber">Numéro de certificat :</label>
+      <input type="text" id="certNumber" name="certNumber" required>
+      <button type="submit" class="cta-button">Vérifier</button>
+    </form>
+    <div id="result"></div>
+  </section>
+
+  <!-- Pied de page -->
+  <div data-include="includes/footer.html"></div>
+
+  <!-- Scripts -->
+  <script src="js/main.js"></script>
+  <script src="js/verify.js"></script>
+
+</body>
+</html>

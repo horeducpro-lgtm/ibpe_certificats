@@ -1,0 +1,332 @@
+[Mon Oct 20 16:21:46.100097 2025] [ssl:warn] [pid 23352:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 16:21:46.253411 2025] [ssl:warn] [pid 23352:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 16:21:46.295115 2025] [mpm_winnt:notice] [pid 23352:tid 452] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Oct 20 16:21:46.295115 2025] [mpm_winnt:notice] [pid 23352:tid 452] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 20 16:21:46.295115 2025] [core:notice] [pid 23352:tid 452] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Mon Oct 20 16:21:46.301633 2025] [mpm_winnt:notice] [pid 23352:tid 452] AH00418: Parent: Created child process 20172
+[Mon Oct 20 16:21:47.006853 2025] [ssl:warn] [pid 20172:tid 476] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 16:21:47.143138 2025] [ssl:warn] [pid 20172:tid 476] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 16:21:47.229735 2025] [mpm_winnt:notice] [pid 20172:tid 476] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 20 22:45:04.674857 2025] [ssl:warn] [pid 19200:tid 472] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:45:04.811775 2025] [core:warn] [pid 19200:tid 472] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 20 22:45:04.815780 2025] [ssl:warn] [pid 19200:tid 472] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:45:05.138332 2025] [mpm_winnt:notice] [pid 19200:tid 472] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Oct 20 22:45:05.138332 2025] [mpm_winnt:notice] [pid 19200:tid 472] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 20 22:45:05.138332 2025] [core:notice] [pid 19200:tid 472] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Mon Oct 20 22:45:05.146344 2025] [mpm_winnt:notice] [pid 19200:tid 472] AH00418: Parent: Created child process 23940
+[Mon Oct 20 22:45:05.707300 2025] [ssl:warn] [pid 23940:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:45:05.787594 2025] [ssl:warn] [pid 23940:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:45:05.819414 2025] [mpm_winnt:notice] [pid 23940:tid 464] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 20 22:45:31.977830 2025] [mpm_winnt:crit] [pid 23940:tid 464] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Oct 20 22:45:33.399364 2025] [ssl:warn] [pid 2528:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:45:33.853514 2025] [core:warn] [pid 2528:tid 456] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 20 22:45:33.863530 2025] [ssl:warn] [pid 2528:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:45:33.897558 2025] [mpm_winnt:notice] [pid 2528:tid 456] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Oct 20 22:45:33.897558 2025] [mpm_winnt:notice] [pid 2528:tid 456] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 20 22:45:33.897558 2025] [core:notice] [pid 2528:tid 456] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Mon Oct 20 22:45:33.902100 2025] [mpm_winnt:notice] [pid 2528:tid 456] AH00418: Parent: Created child process 11352
+[Mon Oct 20 22:45:34.348340 2025] [ssl:warn] [pid 11352:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:45:34.427069 2025] [ssl:warn] [pid 11352:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:45:34.453625 2025] [mpm_winnt:notice] [pid 11352:tid 444] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 20 22:45:59.806918 2025] [mpm_winnt:crit] [pid 11352:tid 444] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Oct 20 22:46:14.436377 2025] [ssl:warn] [pid 27044:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:46:14.686069 2025] [core:warn] [pid 27044:tid 444] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 20 22:46:14.694059 2025] [ssl:warn] [pid 27044:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:46:14.732531 2025] [mpm_winnt:notice] [pid 27044:tid 444] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Oct 20 22:46:14.732531 2025] [mpm_winnt:notice] [pid 27044:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 20 22:46:14.732531 2025] [core:notice] [pid 27044:tid 444] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Mon Oct 20 22:46:14.737050 2025] [mpm_winnt:notice] [pid 27044:tid 444] AH00418: Parent: Created child process 21616
+[Mon Oct 20 22:46:15.147887 2025] [ssl:warn] [pid 21616:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:46:15.233939 2025] [ssl:warn] [pid 21616:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 22:46:15.260474 2025] [mpm_winnt:notice] [pid 21616:tid 460] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 20 23:12:10.544276 2025] [mpm_winnt:crit] [pid 21616:tid 460] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Oct 20 23:12:12.988867 2025] [ssl:warn] [pid 3900:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:12:13.372780 2025] [core:warn] [pid 3900:tid 444] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 20 23:12:13.384382 2025] [ssl:warn] [pid 3900:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:12:13.419374 2025] [mpm_winnt:notice] [pid 3900:tid 444] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Oct 20 23:12:13.419374 2025] [mpm_winnt:notice] [pid 3900:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 20 23:12:13.419374 2025] [core:notice] [pid 3900:tid 444] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Mon Oct 20 23:12:13.423399 2025] [mpm_winnt:notice] [pid 3900:tid 444] AH00418: Parent: Created child process 23620
+[Mon Oct 20 23:12:13.882705 2025] [ssl:warn] [pid 23620:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:12:13.970092 2025] [ssl:warn] [pid 23620:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:12:14.013668 2025] [mpm_winnt:notice] [pid 23620:tid 456] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 20 23:21:37.911075 2025] [mpm_winnt:crit] [pid 23620:tid 456] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Oct 20 23:21:39.291865 2025] [ssl:warn] [pid 26772:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:21:39.653667 2025] [core:warn] [pid 26772:tid 468] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 20 23:21:39.661665 2025] [ssl:warn] [pid 26772:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:21:39.693057 2025] [mpm_winnt:notice] [pid 26772:tid 468] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Oct 20 23:21:39.693057 2025] [mpm_winnt:notice] [pid 26772:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 20 23:21:39.693057 2025] [core:notice] [pid 26772:tid 468] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Mon Oct 20 23:21:39.698063 2025] [mpm_winnt:notice] [pid 26772:tid 468] AH00418: Parent: Created child process 6132
+[Mon Oct 20 23:21:40.111330 2025] [ssl:warn] [pid 6132:tid 472] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:21:40.193292 2025] [ssl:warn] [pid 6132:tid 472] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:21:40.222851 2025] [mpm_winnt:notice] [pid 6132:tid 472] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 20 23:28:32.569500 2025] [mpm_winnt:crit] [pid 6132:tid 472] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Oct 20 23:28:33.795843 2025] [ssl:warn] [pid 2256:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:28:35.443919 2025] [core:warn] [pid 2256:tid 444] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 20 23:28:35.454470 2025] [ssl:warn] [pid 2256:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:28:35.527116 2025] [mpm_winnt:notice] [pid 2256:tid 444] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Oct 20 23:28:35.527116 2025] [mpm_winnt:notice] [pid 2256:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 20 23:28:35.527116 2025] [core:notice] [pid 2256:tid 444] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Mon Oct 20 23:28:35.533127 2025] [mpm_winnt:notice] [pid 2256:tid 444] AH00418: Parent: Created child process 15704
+[Mon Oct 20 23:28:35.952194 2025] [ssl:warn] [pid 15704:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:28:36.040034 2025] [ssl:warn] [pid 15704:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:28:36.073552 2025] [mpm_winnt:notice] [pid 15704:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 20 23:58:43.143624 2025] [ssl:warn] [pid 6580:tid 472] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:58:43.241282 2025] [core:warn] [pid 6580:tid 472] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 20 23:58:43.245306 2025] [ssl:warn] [pid 6580:tid 472] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:58:44.605260 2025] [mpm_winnt:notice] [pid 6580:tid 472] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Oct 20 23:58:44.606262 2025] [mpm_winnt:notice] [pid 6580:tid 472] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 20 23:58:44.606262 2025] [core:notice] [pid 6580:tid 472] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Mon Oct 20 23:58:44.611565 2025] [mpm_winnt:notice] [pid 6580:tid 472] AH00418: Parent: Created child process 26108
+[Mon Oct 20 23:58:45.099381 2025] [ssl:warn] [pid 26108:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:58:45.183305 2025] [ssl:warn] [pid 26108:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 20 23:58:45.211471 2025] [mpm_winnt:notice] [pid 26108:tid 480] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 00:17:32.853907 2025] [php:error] [pid 26108:tid 1936] [client 127.0.0.1:60142] script 'D:/bitap/IBPE/code/XAMPP/htdocs/admin_certificat.php' not found or unable to stat
+[Tue Oct 21 00:17:34.380430 2025] [php:error] [pid 26108:tid 1936] [client 127.0.0.1:60142] script 'D:/bitap/IBPE/code/XAMPP/htdocs/admin_certificat.php' not found or unable to stat
+[Tue Oct 21 00:17:53.355313 2025] [ssl:warn] [pid 340:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:17:53.729259 2025] [core:warn] [pid 340:tid 468] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 00:17:53.739354 2025] [ssl:warn] [pid 340:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:17:53.777873 2025] [mpm_winnt:notice] [pid 340:tid 468] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 00:17:53.777873 2025] [mpm_winnt:notice] [pid 340:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 00:17:53.777873 2025] [core:notice] [pid 340:tid 468] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 00:17:53.782908 2025] [mpm_winnt:notice] [pid 340:tid 468] AH00418: Parent: Created child process 27704
+[Tue Oct 21 00:17:54.195389 2025] [ssl:warn] [pid 27704:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:17:54.284732 2025] [ssl:warn] [pid 27704:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:17:54.320746 2025] [mpm_winnt:notice] [pid 27704:tid 444] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 00:18:05.529733 2025] [php:warn] [pid 27704:tid 1980] [client 127.0.0.1:56984] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php on line 2
+[Tue Oct 21 00:18:05.529733 2025] [php:error] [pid 27704:tid 1980] [client 127.0.0.1:56984] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php on line 2
+[Tue Oct 21 00:23:01.163372 2025] [php:warn] [pid 27704:tid 1932] [client 127.0.0.1:53071] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php on line 2
+[Tue Oct 21 00:23:01.163372 2025] [php:error] [pid 27704:tid 1932] [client 127.0.0.1:53071] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php on line 2
+[Tue Oct 21 00:23:07.665080 2025] [mpm_winnt:crit] [pid 27704:tid 444] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 00:23:15.229049 2025] [ssl:warn] [pid 18692:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:23:15.364471 2025] [core:warn] [pid 18692:tid 448] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 00:23:15.374377 2025] [ssl:warn] [pid 18692:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:23:15.440952 2025] [mpm_winnt:notice] [pid 18692:tid 448] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 00:23:15.440952 2025] [mpm_winnt:notice] [pid 18692:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 00:23:15.440952 2025] [core:notice] [pid 18692:tid 448] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 00:23:15.446556 2025] [mpm_winnt:notice] [pid 18692:tid 448] AH00418: Parent: Created child process 13988
+[Tue Oct 21 00:23:15.916877 2025] [ssl:warn] [pid 13988:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:23:16.035944 2025] [ssl:warn] [pid 13988:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:23:16.074485 2025] [mpm_winnt:notice] [pid 13988:tid 448] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 00:23:19.409174 2025] [php:warn] [pid 13988:tid 1960] [client 127.0.0.1:65520] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php on line 2
+[Tue Oct 21 00:23:19.409174 2025] [php:error] [pid 13988:tid 1960] [client 127.0.0.1:65520] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificat.php on line 2
+[Tue Oct 21 00:37:00.317444 2025] [php:error] [pid 13988:tid 1956] [client 127.0.0.1:60217] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certlist.php' not found or unable to stat
+[Tue Oct 21 00:48:25.750275 2025] [php:warn] [pid 13988:tid 1960] [client 127.0.0.1:62604] PHP Warning:  Undefined variable $conn in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 37
+[Tue Oct 21 00:48:25.750275 2025] [php:error] [pid 13988:tid 1960] [client 127.0.0.1:62604] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php:37\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 37
+[Tue Oct 21 00:49:09.336664 2025] [php:warn] [pid 13988:tid 1956] [client 127.0.0.1:59010] PHP Warning:  Undefined variable $conn in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 37
+[Tue Oct 21 00:49:09.336664 2025] [php:error] [pid 13988:tid 1956] [client 127.0.0.1:59010] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php:37\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 37
+[Tue Oct 21 00:54:22.866182 2025] [php:warn] [pid 13988:tid 1960] [client 127.0.0.1:64725] PHP Warning:  Undefined variable $conn in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 5
+[Tue Oct 21 00:54:22.866182 2025] [php:error] [pid 13988:tid 1960] [client 127.0.0.1:64725] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php:5\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 5
+[Tue Oct 21 00:54:33.455161 2025] [php:error] [pid 13988:tid 1956] [client 127.0.0.1:54236] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 00:55:14.245382 2025] [php:error] [pid 13988:tid 1960] [client 127.0.0.1:59045] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 00:55:15.358579 2025] [php:error] [pid 13988:tid 1960] [client 127.0.0.1:59045] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 00:55:38.348096 2025] [mpm_winnt:crit] [pid 13988:tid 448] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 00:55:40.161723 2025] [ssl:warn] [pid 9236:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:55:40.535099 2025] [core:warn] [pid 9236:tid 484] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 00:55:40.545095 2025] [ssl:warn] [pid 9236:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:55:40.632645 2025] [mpm_winnt:notice] [pid 9236:tid 484] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 00:55:40.632645 2025] [mpm_winnt:notice] [pid 9236:tid 484] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 00:55:40.632645 2025] [core:notice] [pid 9236:tid 484] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 00:55:40.647645 2025] [mpm_winnt:notice] [pid 9236:tid 484] AH00418: Parent: Created child process 21320
+[Tue Oct 21 00:55:41.469930 2025] [ssl:warn] [pid 21320:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:55:41.667895 2025] [ssl:warn] [pid 21320:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:55:41.757897 2025] [mpm_winnt:notice] [pid 21320:tid 448] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 00:56:06.130738 2025] [php:error] [pid 21320:tid 1972] [client 127.0.0.1:54240] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 00:56:09.330287 2025] [php:error] [pid 21320:tid 1972] [client 127.0.0.1:54240] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 00:56:42.786048 2025] [php:error] [pid 21320:tid 1968] [client 127.0.0.1:58907] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 00:56:43.972595 2025] [php:error] [pid 21320:tid 1968] [client 127.0.0.1:58907] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 00:57:06.335610 2025] [php:warn] [pid 21320:tid 1972] [client 127.0.0.1:65078] PHP Warning:  Undefined variable $conn in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 37
+[Tue Oct 21 00:57:06.335610 2025] [php:error] [pid 21320:tid 1972] [client 127.0.0.1:65078] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php:37\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 37
+[Tue Oct 21 00:58:10.986225 2025] [ssl:warn] [pid 4464:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:58:11.056588 2025] [core:warn] [pid 4464:tid 504] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 00:58:11.059591 2025] [ssl:warn] [pid 4464:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:58:11.095597 2025] [mpm_winnt:notice] [pid 4464:tid 504] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 00:58:11.095597 2025] [mpm_winnt:notice] [pid 4464:tid 504] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 00:58:11.095597 2025] [core:notice] [pid 4464:tid 504] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 00:58:11.101601 2025] [mpm_winnt:notice] [pid 4464:tid 504] AH00418: Parent: Created child process 6900
+[Tue Oct 21 00:58:11.580048 2025] [ssl:warn] [pid 6900:tid 500] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:58:11.705080 2025] [ssl:warn] [pid 6900:tid 500] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:58:11.776694 2025] [mpm_winnt:notice] [pid 6900:tid 500] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 00:58:13.629330 2025] [mpm_winnt:crit] [pid 6900:tid 500] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 00:58:17.006010 2025] [ssl:warn] [pid 14524:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:58:17.084759 2025] [core:warn] [pid 14524:tid 496] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 00:58:17.087757 2025] [ssl:warn] [pid 14524:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:58:17.130743 2025] [mpm_winnt:notice] [pid 14524:tid 496] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 00:58:17.130743 2025] [mpm_winnt:notice] [pid 14524:tid 496] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 00:58:17.130743 2025] [core:notice] [pid 14524:tid 496] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 00:58:17.138338 2025] [mpm_winnt:notice] [pid 14524:tid 496] AH00418: Parent: Created child process 16172
+[Tue Oct 21 00:58:17.949570 2025] [ssl:warn] [pid 16172:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:58:18.124091 2025] [ssl:warn] [pid 16172:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 00:58:18.211684 2025] [mpm_winnt:notice] [pid 16172:tid 444] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 00:58:25.858193 2025] [php:warn] [pid 16172:tid 1976] [client 127.0.0.1:49509] PHP Warning:  Undefined variable $conn in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 5
+[Tue Oct 21 00:58:25.859192 2025] [php:error] [pid 16172:tid 1976] [client 127.0.0.1:49509] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php:5\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 5
+[Tue Oct 21 00:58:27.098159 2025] [php:warn] [pid 16172:tid 1976] [client 127.0.0.1:49509] PHP Warning:  Undefined variable $conn in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 5
+[Tue Oct 21 00:58:27.099181 2025] [php:error] [pid 16172:tid 1976] [client 127.0.0.1:49509] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php:5\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 5
+[Tue Oct 21 00:58:39.241538 2025] [php:error] [pid 16172:tid 1968] [client 127.0.0.1:56054] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 01:00:44.065891 2025] [mpm_winnt:crit] [pid 16172:tid 444] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 01:00:48.982716 2025] [ssl:warn] [pid 21436:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:00:49.073210 2025] [core:warn] [pid 21436:tid 444] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 01:00:49.078215 2025] [ssl:warn] [pid 21436:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:00:49.138638 2025] [mpm_winnt:notice] [pid 21436:tid 444] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 01:00:49.138638 2025] [mpm_winnt:notice] [pid 21436:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 01:00:49.138638 2025] [core:notice] [pid 21436:tid 444] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 01:00:49.148694 2025] [mpm_winnt:notice] [pid 21436:tid 444] AH00418: Parent: Created child process 19260
+[Tue Oct 21 01:00:49.769123 2025] [ssl:warn] [pid 19260:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:00:49.987481 2025] [ssl:warn] [pid 19260:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:00:50.091053 2025] [mpm_winnt:notice] [pid 19260:tid 452] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 01:00:55.650630 2025] [php:error] [pid 19260:tid 1936] [client 127.0.0.1:60322] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certificats.php' not found or unable to stat
+[Tue Oct 21 01:03:42.318830 2025] [mpm_winnt:crit] [pid 19260:tid 452] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 01:03:45.278640 2025] [ssl:warn] [pid 12340:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:03:45.641499 2025] [core:warn] [pid 12340:tid 444] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 01:03:45.651044 2025] [ssl:warn] [pid 12340:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:03:45.749427 2025] [mpm_winnt:notice] [pid 12340:tid 444] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 01:03:45.749427 2025] [mpm_winnt:notice] [pid 12340:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 01:03:45.749427 2025] [core:notice] [pid 12340:tid 444] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 01:03:45.764446 2025] [mpm_winnt:notice] [pid 12340:tid 444] AH00418: Parent: Created child process 15372
+[Tue Oct 21 01:03:46.425808 2025] [ssl:warn] [pid 15372:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:03:46.506393 2025] [ssl:warn] [pid 15372:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:03:46.546961 2025] [mpm_winnt:notice] [pid 15372:tid 460] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 01:03:57.418646 2025] [php:warn] [pid 15372:tid 1936] [client 127.0.0.1:53339] PHP Warning:  Undefined variable $conn in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 5
+[Tue Oct 21 01:03:57.418646 2025] [php:error] [pid 15372:tid 1936] [client 127.0.0.1:53339] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php:5\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 5
+[Tue Oct 21 01:10:40.574661 2025] [mpm_winnt:crit] [pid 15372:tid 460] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 01:10:41.838042 2025] [ssl:warn] [pid 10244:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:10:42.250342 2025] [core:warn] [pid 10244:tid 504] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 01:10:42.258881 2025] [ssl:warn] [pid 10244:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:10:42.340787 2025] [mpm_winnt:notice] [pid 10244:tid 504] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 01:10:42.340787 2025] [mpm_winnt:notice] [pid 10244:tid 504] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 01:10:42.340787 2025] [core:notice] [pid 10244:tid 504] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 01:10:42.354826 2025] [mpm_winnt:notice] [pid 10244:tid 504] AH00418: Parent: Created child process 4656
+[Tue Oct 21 01:10:42.922927 2025] [ssl:warn] [pid 4656:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:10:43.037665 2025] [ssl:warn] [pid 4656:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:10:43.091009 2025] [mpm_winnt:notice] [pid 4656:tid 504] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 01:44:13.600124 2025] [mpm_winnt:crit] [pid 4656:tid 504] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 01:44:15.304800 2025] [ssl:warn] [pid 2076:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:44:15.764188 2025] [core:warn] [pid 2076:tid 448] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 01:44:15.771172 2025] [ssl:warn] [pid 2076:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:44:15.846148 2025] [mpm_winnt:notice] [pid 2076:tid 448] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 01:44:15.846148 2025] [mpm_winnt:notice] [pid 2076:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 01:44:15.846148 2025] [core:notice] [pid 2076:tid 448] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 01:44:15.858136 2025] [mpm_winnt:notice] [pid 2076:tid 448] AH00418: Parent: Created child process 17788
+[Tue Oct 21 01:44:16.675787 2025] [ssl:warn] [pid 17788:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:44:16.781495 2025] [ssl:warn] [pid 17788:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:44:16.871664 2025] [mpm_winnt:notice] [pid 17788:tid 440] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 01:44:50.982623 2025] [php:warn] [pid 17788:tid 1932] [client 127.0.0.1:58422] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2
+[Tue Oct 21 01:44:50.983623 2025] [php:error] [pid 17788:tid 1932] [client 127.0.0.1:58422] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2
+[Tue Oct 21 01:45:15.271233 2025] [php:warn] [pid 17788:tid 1960] [client 127.0.0.1:61753] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2, referer: http://ibpe.local/admin_certificate/certlist.php
+[Tue Oct 21 01:45:15.271233 2025] [php:error] [pid 17788:tid 1960] [client 127.0.0.1:61753] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2, referer: http://ibpe.local/admin_certificate/certlist.php
+[Tue Oct 21 01:46:31.978351 2025] [mpm_winnt:crit] [pid 17788:tid 440] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 01:46:33.628871 2025] [ssl:warn] [pid 25772:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:46:34.352697 2025] [core:warn] [pid 25772:tid 492] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 01:46:34.364645 2025] [ssl:warn] [pid 25772:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:46:34.458431 2025] [mpm_winnt:notice] [pid 25772:tid 492] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 01:46:34.458431 2025] [mpm_winnt:notice] [pid 25772:tid 492] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 01:46:34.459437 2025] [core:notice] [pid 25772:tid 492] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 01:46:34.473464 2025] [mpm_winnt:notice] [pid 25772:tid 492] AH00418: Parent: Created child process 25872
+[Tue Oct 21 01:46:35.183320 2025] [ssl:warn] [pid 25872:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:46:35.344627 2025] [ssl:warn] [pid 25872:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:46:35.422203 2025] [mpm_winnt:notice] [pid 25872:tid 440] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 01:46:45.507131 2025] [php:warn] [pid 25872:tid 1968] [client 127.0.0.1:56165] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2
+[Tue Oct 21 01:46:45.508131 2025] [php:error] [pid 25872:tid 1968] [client 127.0.0.1:56165] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2
+[Tue Oct 21 01:46:50.264344 2025] [php:warn] [pid 25872:tid 1968] [client 127.0.0.1:56165] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2, referer: http://ibpe.local/admin_certificate/certlist.php
+[Tue Oct 21 01:46:50.265345 2025] [php:error] [pid 25872:tid 1968] [client 127.0.0.1:56165] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2, referer: http://ibpe.local/admin_certificate/certlist.php
+[Tue Oct 21 01:50:46.874051 2025] [php:warn] [pid 25872:tid 1932] [client 127.0.0.1:53333] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2, referer: http://ibpe.local/admin_certificate/certlist.php
+[Tue Oct 21 01:50:46.875051 2025] [php:error] [pid 25872:tid 1932] [client 127.0.0.1:53333] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2, referer: http://ibpe.local/admin_certificate/certlist.php
+[Tue Oct 21 01:59:25.925914 2025] [mpm_winnt:crit] [pid 25872:tid 440] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 01:59:27.614610 2025] [ssl:warn] [pid 16108:tid 472] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:59:28.066190 2025] [core:warn] [pid 16108:tid 472] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 01:59:28.077181 2025] [ssl:warn] [pid 16108:tid 472] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:59:28.156530 2025] [mpm_winnt:notice] [pid 16108:tid 472] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 01:59:28.156530 2025] [mpm_winnt:notice] [pid 16108:tid 472] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 01:59:28.156530 2025] [core:notice] [pid 16108:tid 472] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 01:59:28.170495 2025] [mpm_winnt:notice] [pid 16108:tid 472] AH00418: Parent: Created child process 16876
+[Tue Oct 21 01:59:28.725062 2025] [ssl:warn] [pid 16876:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:59:28.831869 2025] [ssl:warn] [pid 16876:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 01:59:28.894862 2025] [mpm_winnt:notice] [pid 16876:tid 444] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 01:59:59.724800 2025] [php:warn] [pid 16876:tid 1984] [client 127.0.0.1:49866] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2, referer: http://ibpe.local/admin_certificate/certlist.php
+[Tue Oct 21 01:59:59.725800 2025] [php:error] [pid 16876:tid 1984] [client 127.0.0.1:49866] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\verifier.php on line 2, referer: http://ibpe.local/admin_certificate/certlist.php
+[Tue Oct 21 02:00:09.725548 2025] [php:error] [pid 16876:tid 1980] [client 127.0.0.1:64285] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/liste.php' not found or unable to stat
+[Tue Oct 21 02:00:21.471290 2025] [php:warn] [pid 16876:tid 1984] [client 127.0.0.1:50603] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 1
+[Tue Oct 21 02:00:21.471290 2025] [php:error] [pid 16876:tid 1984] [client 127.0.0.1:50603] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php:1\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\certlist.php on line 1
+[Tue Oct 21 02:02:18.850424 2025] [php:error] [pid 16876:tid 1980] [client 127.0.0.1:51311] script 'D:/bitap/IBPE/code/XAMPP/admin_certificate/certlist.php' not found or unable to stat
+[Tue Oct 21 02:02:54.921362 2025] [php:warn] [pid 16876:tid 1984] [client 127.0.0.1:49771] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\ajouter.php on line 1
+[Tue Oct 21 02:02:54.921362 2025] [php:error] [pid 16876:tid 1984] [client 127.0.0.1:49771] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\ajouter.php:1\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\ajouter.php on line 1
+[Tue Oct 21 02:03:04.749195 2025] [php:warn] [pid 16876:tid 1980] [client 127.0.0.1:49454] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\liste.php on line 1
+[Tue Oct 21 02:03:04.749195 2025] [php:error] [pid 16876:tid 1980] [client 127.0.0.1:49454] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\liste.php:1\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\liste.php on line 1
+[Tue Oct 21 02:06:09.429805 2025] [mpm_winnt:crit] [pid 16876:tid 444] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 02:06:11.221480 2025] [ssl:warn] [pid 10200:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:06:11.314533 2025] [core:warn] [pid 10200:tid 444] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 02:06:11.318547 2025] [ssl:warn] [pid 10200:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:06:11.352099 2025] [mpm_winnt:notice] [pid 10200:tid 444] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 02:06:11.352099 2025] [mpm_winnt:notice] [pid 10200:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 02:06:11.352099 2025] [core:notice] [pid 10200:tid 444] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 02:06:11.358064 2025] [mpm_winnt:notice] [pid 10200:tid 444] AH00418: Parent: Created child process 10060
+[Tue Oct 21 02:06:11.795274 2025] [ssl:warn] [pid 10060:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:06:11.954960 2025] [ssl:warn] [pid 10060:tid 508] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:06:12.056869 2025] [mpm_winnt:notice] [pid 10060:tid 508] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 02:12:36.146743 2025] [mpm_winnt:crit] [pid 10060:tid 508] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 02:12:37.338960 2025] [ssl:warn] [pid 18556:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:12:37.925225 2025] [core:warn] [pid 18556:tid 460] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 02:12:37.934220 2025] [ssl:warn] [pid 18556:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:12:38.016757 2025] [mpm_winnt:notice] [pid 18556:tid 460] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 02:12:38.016757 2025] [mpm_winnt:notice] [pid 18556:tid 460] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 02:12:38.016757 2025] [core:notice] [pid 18556:tid 460] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 02:12:38.030802 2025] [mpm_winnt:notice] [pid 18556:tid 460] AH00418: Parent: Created child process 22920
+[Tue Oct 21 02:12:38.937534 2025] [ssl:warn] [pid 22920:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:12:39.115631 2025] [ssl:warn] [pid 22920:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:12:39.208203 2025] [mpm_winnt:notice] [pid 22920:tid 448] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 02:45:41.823622 2025] [mpm_winnt:crit] [pid 22920:tid 448] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Oct 21 02:45:43.508350 2025] [ssl:warn] [pid 16620:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:45:43.991450 2025] [core:warn] [pid 16620:tid 444] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 02:45:44.000026 2025] [ssl:warn] [pid 16620:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:45:44.078367 2025] [mpm_winnt:notice] [pid 16620:tid 444] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 02:45:44.078367 2025] [mpm_winnt:notice] [pid 16620:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 02:45:44.078367 2025] [core:notice] [pid 16620:tid 444] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 02:45:44.091491 2025] [mpm_winnt:notice] [pid 16620:tid 444] AH00418: Parent: Created child process 14532
+[Tue Oct 21 02:45:44.632189 2025] [ssl:warn] [pid 14532:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:45:44.713965 2025] [ssl:warn] [pid 14532:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 02:45:44.754429 2025] [mpm_winnt:notice] [pid 14532:tid 468] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 19:50:02.077578 2025] [ssl:warn] [pid 31460:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 19:50:02.181890 2025] [core:warn] [pid 31460:tid 496] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 21 19:50:02.184894 2025] [ssl:warn] [pid 31460:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 19:50:02.878634 2025] [mpm_winnt:notice] [pid 31460:tid 496] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Tue Oct 21 19:50:02.878634 2025] [mpm_winnt:notice] [pid 31460:tid 496] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 21 19:50:02.878634 2025] [core:notice] [pid 31460:tid 496] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Tue Oct 21 19:50:02.883635 2025] [mpm_winnt:notice] [pid 31460:tid 496] AH00418: Parent: Created child process 22228
+[Tue Oct 21 19:50:03.360690 2025] [ssl:warn] [pid 22228:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 19:50:03.428733 2025] [ssl:warn] [pid 22228:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 21 19:50:03.462523 2025] [mpm_winnt:notice] [pid 22228:tid 460] AH00354: Child: Starting 150 worker threads.
+[Tue Oct 21 20:20:11.963354 2025] [php:warn] [pid 22228:tid 1936] [client 127.0.0.1:59784] PHP Warning:  require(admin_certificate/cert_config.php): Failed to open stream: No such file or directory in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\verifier.php on line 2
+[Tue Oct 21 20:20:11.964357 2025] [php:error] [pid 22228:tid 1936] [client 127.0.0.1:59784] PHP Fatal error:  Uncaught Error: Failed opening required 'admin_certificate/cert_config.php' (include_path='D:\\bitap\\IBPE\\code\\XAMPP\\php\\PEAR') in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\verifier.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\bitap\\IBPE\\code\\XAMPP\\admin_certificate\\verifier.php on line 2
+[Wed Oct 22 17:31:22.148259 2025] [ssl:warn] [pid 32992:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 17:31:22.242794 2025] [core:warn] [pid 32992:tid 456] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 22 17:31:22.250880 2025] [ssl:warn] [pid 32992:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 17:31:22.987295 2025] [mpm_winnt:notice] [pid 32992:tid 456] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Wed Oct 22 17:31:22.987295 2025] [mpm_winnt:notice] [pid 32992:tid 456] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Oct 22 17:31:22.987295 2025] [core:notice] [pid 32992:tid 456] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Wed Oct 22 17:31:22.990902 2025] [mpm_winnt:notice] [pid 32992:tid 456] AH00418: Parent: Created child process 29360
+[Wed Oct 22 17:31:23.406250 2025] [ssl:warn] [pid 29360:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 17:31:23.475027 2025] [ssl:warn] [pid 29360:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 17:31:23.502702 2025] [mpm_winnt:notice] [pid 29360:tid 444] AH00354: Child: Starting 150 worker threads.
+[Wed Oct 22 18:10:18.080932 2025] [mpm_winnt:crit] [pid 29360:tid 444] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Oct 22 18:10:21.630545 2025] [ssl:warn] [pid 29292:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 18:10:22.083696 2025] [core:warn] [pid 29292:tid 452] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 22 18:10:22.093618 2025] [ssl:warn] [pid 29292:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 18:10:23.562921 2025] [mpm_winnt:notice] [pid 29292:tid 452] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Wed Oct 22 18:10:23.562921 2025] [mpm_winnt:notice] [pid 29292:tid 452] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Oct 22 18:10:23.562921 2025] [core:notice] [pid 29292:tid 452] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Wed Oct 22 18:10:23.577346 2025] [mpm_winnt:notice] [pid 29292:tid 452] AH00418: Parent: Created child process 17000
+[Wed Oct 22 18:10:24.695615 2025] [ssl:warn] [pid 17000:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 18:10:24.895038 2025] [ssl:warn] [pid 17000:tid 456] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 18:10:24.987964 2025] [mpm_winnt:notice] [pid 17000:tid 456] AH00354: Child: Starting 150 worker threads.
+[Wed Oct 22 18:23:22.929545 2025] [mpm_winnt:crit] [pid 17000:tid 456] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Oct 22 18:23:31.049358 2025] [ssl:warn] [pid 29468:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 18:23:31.136368 2025] [core:warn] [pid 29468:tid 464] AH00098: pid file D:/bitap/IBPE/code/XAMPP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 22 18:23:31.141362 2025] [ssl:warn] [pid 29468:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 18:23:31.185641 2025] [mpm_winnt:notice] [pid 29468:tid 464] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Wed Oct 22 18:23:31.185641 2025] [mpm_winnt:notice] [pid 29468:tid 464] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Oct 22 18:23:31.185641 2025] [core:notice] [pid 29468:tid 464] AH00094: Command line: 'd:\\bitap\\ibpe\\code\\xampp\\apache\\bin\\httpd.exe -d D:/bitap/IBPE/code/XAMPP/apache'
+[Wed Oct 22 18:23:31.193926 2025] [mpm_winnt:notice] [pid 29468:tid 464] AH00418: Parent: Created child process 6616
+[Wed Oct 22 18:23:31.733802 2025] [ssl:warn] [pid 6616:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 18:23:31.831056 2025] [ssl:warn] [pid 6616:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 22 18:23:31.899660 2025] [mpm_winnt:notice] [pid 6616:tid 440] AH00354: Child: Starting 150 worker threads.

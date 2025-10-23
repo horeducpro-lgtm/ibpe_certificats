@@ -1,0 +1,17 @@
+@model IBPE.Models.Candidate
+
+<form asp-action="Apply" method="post" enctype="multipart/form-data">
+  <label>Nom complet</label>
+  <input asp-for="FullName" required />
+  <label>Email</label>
+  <input asp-for="Email" type="email" required />
+  <label>Programme</label>
+  <select asp-for="Program">
+    <option>Master Pro Management Industriel</option>
+    <option>Licence QHSE</option>
+    <option>Master IT</option>
+  </select>
+  <label>CV</label>
+  <input asp-for="CVPath" type="file" />
+  <button type="submit">Soumettre</button>
+</form>

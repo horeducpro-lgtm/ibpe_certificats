@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px) {
+  .site-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .site-header nav ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .cta-button {
+    width: 100%;
+    text-align: center;
+  }
+
+  .card {
+    margin: 20px 0;
+  }
+
+  form {
+    width: 100%;
+  }
+}

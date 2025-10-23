@@ -1,0 +1,10 @@
+<form asp-action="VerifyCertificate" method="post">
+  <label for="certNumber">Numéro de certificat :</label>
+  <input type="text" name="certNumber" required />
+  <button type="submit">Vérifier</button>
+</form>
+
+@if (ViewBag.Result != null)
+{
+  <div class="result">@ViewBag.Result</div>
+}
