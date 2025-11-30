@@ -1,0 +1,8 @@
+﻿# IDE / système
+.vscode/
+Thumbs.db
+*.log
+
+# dossiers externes que tu ne veux pas tracker
+/admin_certificate/node_modules/
+/xampp-control.log
