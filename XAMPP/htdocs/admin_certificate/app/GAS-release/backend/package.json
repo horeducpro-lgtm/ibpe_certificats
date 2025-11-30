@@ -1,0 +1,40 @@
+{
+  "name": "gas-backend",
+  "version": "1.0.0",
+  "description": "Backend GAS (Express + Postgres) en ESM",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon --watch . --ext js,json --exec \"node server.js\"",
+    "lint": "eslint . --ext .js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "pdfkit": "^0.17.2",
+    "pg": "^8.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "jest": "^30.2.0",
+    "nodemon": "^3.0.2",
+    "supertest": "^7.1.4"
+  },
+  "keywords": [
+    "express",
+    "postgres",
+    "jwt",
+    "gas",
+    "backend"
+  ],
+  "author": "Adnane",
+  "license": "MIT"
+}
